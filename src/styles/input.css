@@ -14,7 +14,6 @@
 
 .loading-page-pg {
     position: relative;
-    
     background-image: url('/src/img/medium-shot-man-standing-ladder.jpg');
     background-size: cover;
     background-position: center;
@@ -34,3 +33,10 @@
     }
 }
 
+.navmenu {
+    display: none;
+    transform: translateY(-100%);
+    transition: transform 0.5s ease-in-out;
+    /* Adjust the duration and easing as needed */
+    /* Add other styling properties for your navMenu */
+}
