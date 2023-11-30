@@ -554,20 +554,12 @@ video {
   right: 2.5rem;
 }
 
-.top-12 {
-  top: 3rem;
-}
-
-.top-10 {
-  top: 2.5rem;
-}
-
-.right-12 {
-  right: 3rem;
-}
-
 .right-14 {
   right: 3.5rem;
+}
+
+.top-12 {
+  top: 3rem;
 }
 
 .z-10 {
@@ -908,10 +900,6 @@ video {
 
 .opacity-0 {
   opacity: 0;
-}
-
-.opacity-75 {
-  opacity: 0.75;
 }
 
 .transition {
